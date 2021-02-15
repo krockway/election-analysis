@@ -1,12 +1,12 @@
 # election-analysis
 
-##Project Overview
+## Project Overview
 Python analysis of CO election
 
-##Resources
+## Resources
 
-##Summary
+## Summary
 
-##Challenge Overview
+## Challenge Overview
 
 ## Challenge Summary
