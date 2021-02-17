@@ -10,12 +10,12 @@ election_results.csv
 *How many votes were cast in this congressional election? 369,711 votes
 
 *Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.  
-![Voters Per County](https://github.com/krockway/election-analysis/blob/main/analysis/VotersPerCounty.png)
+![Votes Per County](https://github.com/krockway/election-analysis/blob/main/analysis/VotesPerCounty.png)
 
 *Which county had the largest number of votes? Denver County
 
 *Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.  
-![Voters Per Candidate](https://github.com/krockway/election-analysis/blob/main/analysis/VotersPerCandidate.png)
+![Votes Per Candidate](https://github.com/krockway/election-analysis/blob/main/analysis/VotesPerCandidate.png)
 
 *Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana DeGette won with 272,892 votes (73.8%)
