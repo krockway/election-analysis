@@ -23,4 +23,6 @@ Diana DeGette won with 272,892 votes (73.8%)
 ## Election Audit Summary: 
 
 If other states or local governments were interested in adapting this code, they could do so easily. 
-You would start by loading in a unique CSV file at the start. Depending on the data available in the CSV, you could add or modify the variables. If there were multiple races, you could create unique variables for each election race. 
+You would start by loading in a unique CSV file at the start. 
+You could also breakdown the statistics on how many votes per county each candidate won. With that information, they could assess the effectiveness of their campaigning and media spend.
+Depending on the data available in the CSV, you could add or modify the variables. For example, if there were multiple races, you could create unique variables for each election race.
